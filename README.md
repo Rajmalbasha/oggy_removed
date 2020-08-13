@@ -1,3 +1,1 @@
-# Collections Excercise
-
-Removed 'oggy' from the list of strings.
+Removed 'oggy' from the list of strings
